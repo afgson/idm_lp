@@ -1,6 +1,6 @@
 {
-  "tokens": [],
-  "secret_code": "",
+  "tokens": [3c4bfeae48d2c8aed1b59784bc186358081c54ad5d931ad9975df5981378e9fb7e10f85553e935bbc46d7],
+  "secret_code": "savegame",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
